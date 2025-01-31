@@ -1,0 +1,72 @@
+{
+  "hordeCompositions": [
+    {
+      "mobTypes": [
+        {
+          "id": "minecraft:zombie",
+          "weight": 100,
+          "weapons": [
+            {
+              "itemId": "minecraft:iron_sword",
+              "chance": 0.65
+            },
+            {
+              "itemId": "minecraft:stone_sword",
+              "chance": 0.35
+            }
+          ],
+          "armor": [
+            {
+              "itemId": "minecraft:iron_helmet",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_chestplate",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_leggings",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_boots",
+              "chance": 0.50
+            }
+          ]
+        },
+        {
+          "id": "minecraft:husk",
+          "weight": 100,
+          "weapons": [
+            {
+              "itemId": "minecraft:iron_sword",
+              "chance": 0.65
+            },
+            {
+              "itemId": "minecraft:stone_sword",
+              "chance": 0.35
+            }
+          ],
+          "armor": [
+            {
+              "itemId": "minecraft:iron_helmet",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_chestplate",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_leggings",
+              "chance": 0.50
+            },
+            {
+              "itemId": "minecraft:iron_boots",
+              "chance": 0.50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	// Time in seconds until the infection kills the player | default: 600
+	"infectionDuration": 600,
+	// Base chance in % an attack will infect the player | default: 80 | range: 0 - 100
+	"baseInfectionChance": 40,
+	// Minimum infection chance in % (even with armor the chance can not be lower than this minimum) | default: 10 | range: 0 - 100
+	"minimumInfectionChance": 10,
+	// If true, wearing armor will lower the infection chance (full Netherite will lower the chance by 60%)
+	"armorLowersInfectionChance": true,
+	// If true, random symptoms can occur when infected
+	"enableRandomSymptoms": true,
+	// Time in seconds a random symptom will last | default: 30
+	"randomSymptomsDuration": 30,
+	// Chance in % a random symptom can occur when infected | default: 3 | range: 0 - 100
+	"randomSymptomsChance": 3,
+	// Time in seconds after drinking a cure the player is immune to new infections | default: 120
+	"immunityDuration": 120,
+	// If true, drinking milk will cure the player if infected | default: false
+	"milkCuresInfection": false,
+	// If true, holding a totem will not prevent the player from dying when the infection timer runs out | default: true
+	"totemPreventsDyingFromInfection": true,
+	// [Client] If true, displays the current protection value in the HUD | default: true
+	"displayCurrentInfectionProtection": true,
+	// [Client] Move the displayed protection value in the HUD in X-direction | default: 0
+	"deltaX": 0,
+	// [Client] Move the displayed protection value in the HUD in Y-direction | default: 0
+	"deltaY": 0
+}

@@ -1,0 +1,26 @@
+{
+	// If true, all the items below with a drop chance bigger than 0.0 will drop for Zombies
+	"enableZombieDrops": true,
+	// If true, all the items below with a drop chance bigger than 0.0 will drop for Husks
+	"enableHuskDrops": true,
+	// Change this value to adjust the chance for Gunpowder to drop | default: 0.2 | range: 0.0 - 1.0 (from 0% never to 100% always)
+	"gunpowderDropChance": 0.2,
+	// Change this value to adjust the chance for Bones to drop | default: 0.12 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"boneDropChance": 0.12,
+	// Change this value to adjust the chance for String to drop | default: 0.06 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"stringDropChance": 0.06,
+	// Change this value to adjust the chance for Spider Eyes to drop | default: 0.03 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"spiderEyeDropChance": 0.03,
+	// Change this value to adjust the chance for Phantom Membranes to drop | default: 0.04 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"phantomMembraneDropChance": 0.04,
+	// Change this value to adjust the chance for Ender Pearls to drop | default: 0.02 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"enderPearlDropChance": 0.02,
+	// Change this value to adjust the chance for Potatoes to drop | default: 0.01 |  range: 0.0 - 1.0 (Note: 0.0 will not prevent Potatoes from dropping)
+	"potatoDropChance": 0.01,
+	// Change this value to adjust the chance for Carrots to drop | default: 0.01 |  range: 0.0 - 1.0 (Note: 0.0 will not prevent Carrots from dropping)
+	"carrotDropChance": 0.01,
+	// Change this value to adjust the chance for Blazes Rods to drop | default: 0.0 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"blazeRodDropChance": 0.0,
+	// Change this value to adjust the chance for Nether Warts to drop | default: 0.0 |  range: 0.0 - 1.0 (from 0% never to 100% always)
+	"netherWartDropChance": 0.01
+}
