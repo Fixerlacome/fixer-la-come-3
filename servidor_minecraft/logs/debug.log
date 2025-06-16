@@ -8724,3 +8724,11 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Jun2025 21:40:11.886] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5309a271, c=net.minecraft.world.inventory.ChestMenu@417ea7e2, b=0, e=53}
 [16Jun2025 21:41:19.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [16Jun2025 21:46:19.415] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[16Jun2025 21:49:52.940] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 42
+[16Jun2025 21:49:52.941] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@67190eb5, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@67190eb5, b=54, e=80}, net.minecraft.world.CompoundContainer@3a622c8b=InventoryMapping{i=net.minecraft.world.CompoundContainer@3a622c8b, c=net.minecraft.world.inventory.ChestMenu@67190eb5, b=0, e=53}}
+[16Jun2025 21:49:52.941] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3a622c8b, c=net.minecraft.world.inventory.ChestMenu@67190eb5, b=0, e=53}
+[16Jun2025 21:50:30.720] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 58
+[16Jun2025 21:50:30.720] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@334aa344, b=118, e=126}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@334aa344, b=91, e=117}}
+[16Jun2025 21:50:30.720] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
+[16Jun2025 21:51:19.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[16Jun2025 21:56:19.413] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

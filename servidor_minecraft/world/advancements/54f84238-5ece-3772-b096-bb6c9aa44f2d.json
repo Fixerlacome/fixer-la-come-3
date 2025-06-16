@@ -6771,6 +6771,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_barrel": {
+    "criteria": {
+      "has_wooden_barrel": "2025-06-16 21:50:16 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_copper": "2025-06-16 21:39:21 +0000"
