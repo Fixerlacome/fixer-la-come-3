@@ -6741,5 +6741,47 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust": {
+    "criteria": {
+      "has_dust_copper": "2025-06-16 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_nickel": "2025-06-16 21:39:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_dust": {
+    "criteria": {
+      "has_dust_silver": "2025-06-16 21:39:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_dust": {
+    "criteria": {
+      "has_dust_nickel": "2025-06-16 21:39:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2025-06-16 21:39:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_copper": "2025-06-16 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_silver": "2025-06-16 21:39:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
