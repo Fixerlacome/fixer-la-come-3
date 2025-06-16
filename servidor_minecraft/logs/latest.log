@@ -651,3 +651,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Jun2025 20:56:25.022] [Server thread/INFO] [owo/]: Receiving client config
 [16Jun2025 22:07:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Can it Make Nutmilk?]
 [16Jun2025 22:17:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Chemical Processing]
+[16Jun2025 22:33:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Moonshine!]
+[16Jun2025 22:33:35.917] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-253, y=76, z=930}
+[16Jun2025 22:33:35.917] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-252, y=76, z=930}
+[16Jun2025 22:33:35.917] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-253, y=76, z=929}
+[16Jun2025 22:33:35.918] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-252, y=76, z=929}

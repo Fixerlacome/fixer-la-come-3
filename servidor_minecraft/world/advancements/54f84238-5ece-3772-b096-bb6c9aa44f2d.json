@@ -6759,6 +6759,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_fermenter": {
+    "criteria": {
+      "form_multiblock": "2025-06-16 22:33:35 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_dust": {
     "criteria": {
       "has_dust_nickel": "2025-06-16 21:39:16 +0000"
