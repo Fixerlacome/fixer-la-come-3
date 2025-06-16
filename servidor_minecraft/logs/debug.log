@@ -8737,3 +8737,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Jun2025 22:07:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Can it Make Nutmilk?]
 [16Jun2025 22:11:19.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [16Jun2025 22:16:19.420] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[16Jun2025 22:17:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Chemical Processing]
+[16Jun2025 22:21:19.416] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[16Jun2025 22:26:19.420] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

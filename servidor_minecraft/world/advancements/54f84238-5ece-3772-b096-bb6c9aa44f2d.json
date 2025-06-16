@@ -6783,6 +6783,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_refinery": {
+    "criteria": {
+      "form_multiblock": "2025-06-16 22:17:05 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/copper_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_copper": "2025-06-16 21:39:21 +0000"

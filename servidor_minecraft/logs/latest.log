@@ -650,3 +650,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [16Jun2025 20:56:25.018] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [16Jun2025 20:56:25.022] [Server thread/INFO] [owo/]: Receiving client config
 [16Jun2025 22:07:15.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Can it Make Nutmilk?]
+[16Jun2025 22:17:05.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Chemical Processing]
