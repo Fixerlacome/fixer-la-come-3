@@ -6870,6 +6870,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/insulating_glass_to_slab": {
+    "criteria": {
+      "has_insulating_glass": "2025-06-17 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_aluminum": "2025-06-17 04:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
@@ -6909,6 +6921,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_breaker": {
+    "criteria": {
+      "has_hv_connector": "2025-06-17 04:44:31 +0000"
     },
     "done": true
   },
@@ -6966,6 +6984,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/transformer_hv": {
+    "criteria": {
+      "has_hv_connector": "2025-06-17 04:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
@@ -7002,9 +7026,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/insulating_glass_from_slab": {
+    "criteria": {
+      "has_insulating_glass": "2025-06-17 04:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_dust": {
+    "criteria": {
+      "has_dust_aluminum": "2025-06-17 04:33:55 +0000"
     },
     "done": true
   },
