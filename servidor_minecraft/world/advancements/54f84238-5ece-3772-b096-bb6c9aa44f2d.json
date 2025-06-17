@@ -6970,6 +6970,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_router": {
+    "criteria": {
+      "has_item": "2025-06-17 03:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
