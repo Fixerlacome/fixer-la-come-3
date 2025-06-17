@@ -82,3 +82,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+Jun 17, 2025, 10:03:12 PM
+INSTANCE
+java.lang.IllegalStateException: Unexpected error: no cauldron at location BlockPos{x=-231, y=69, z=940}
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.fluids.capability.wrappers.CauldronWrapper.getContent(CauldronWrapper.java:37)
+	at TRANSFORMER/neoforge@21.1.174/net.neoforged.neoforge.fluids.capability.wrappers.CauldronWrapper.getTankCapacity(CauldronWrapper.java:52)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.util.JadeForgeUtils.fromFluidHandlerStream(JadeForgeUtils.java:91)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.util.JadeForgeUtils.fromFluidHandler(JadeForgeUtils.java:57)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.util.CommonProxy.wrapFluidStorage(CommonProxy.java:398)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.addon.universal.FluidStorageProvider$Extension.getGroups(FluidStorageProvider.java:194)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:583)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.addon.universal.FluidStorageProvider.putData(FluidStorageProvider.java:139)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.addon.universal.FluidStorageProvider.appendServerData(FluidStorageProvider.java:167)
+	at TRANSFORMER/jade@15.10.0+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.mixinextras$bridge$managedBlock$282(MinecraftServer.java)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.wrapOperation$zbm000$modernfix$managedBlock(MinecraftServer.java:2154)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+

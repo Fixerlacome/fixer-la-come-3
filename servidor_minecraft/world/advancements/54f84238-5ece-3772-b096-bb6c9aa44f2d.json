@@ -7140,6 +7140,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_arcfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-06-17 22:03:12 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_dust": {
     "criteria": {
       "has_dust_uranium": "2025-06-17 20:59:27 +0000"
