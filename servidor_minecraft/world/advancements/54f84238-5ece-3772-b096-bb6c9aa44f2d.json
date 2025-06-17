@@ -19,6 +19,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "spider_nest": "2025-06-17 04:06:09 +0000",
       "muskeg": "2025-06-12 03:18:47 +0000",
       "cold_desert": "2025-06-12 03:19:38 +0000",
       "lavender_field": "2025-06-14 22:14:03 +0000",
