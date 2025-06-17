@@ -8703,3 +8703,20 @@ java.lang.IllegalStateException: Unexpected error: no cauldron at location Block
 [17Jun2025 22:26:52.191] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.HopperMenu@479742ef, b=5, e=31}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.HopperMenu@479742ef, b=32, e=40}, net.minecraft.world.level.block.entity.HopperBlockEntity@5c73bda8=InventoryMapping{i=net.minecraft.world.level.block.entity.HopperBlockEntity@5c73bda8, c=net.minecraft.world.inventory.HopperMenu@479742ef, b=0, e=4}}
 [17Jun2025 22:26:52.192] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.HopperMenu@479742ef, b=5, e=31}
 [17Jun2025 22:29:08.504] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:34:08.504] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:39:08.504] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:44:08.504] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:49:08.505] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:53:53.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
+[17Jun2025 22:53:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[17Jun2025 22:54:08.467] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:54:12.490] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5a51f010 into net.minecraft.network.Connection@1f53753e
+[17Jun2025 22:54:13.548] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[17Jun2025 22:54:15.228] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2e064e0a into net.minecraft.network.Connection@1f53753e
+[17Jun2025 22:54:15.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.106.241.31:59067] logged in with entity id 54023 at (-249.66630353596452, 69.0, 920.6986541024028)
+[17Jun2025 22:54:15.306] [Server thread/INFO] [owo/]: Sending server config values to client
+[17Jun2025 22:54:15.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[17Jun2025 22:54:15.352] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Byakko4146 (54f84238-5ece-3772-b096-bb6c9aa44f2d)
+[17Jun2025 22:54:16.009] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[17Jun2025 22:54:16.072] [Server thread/INFO] [owo/]: Receiving client config
+[17Jun2025 22:59:08.501] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

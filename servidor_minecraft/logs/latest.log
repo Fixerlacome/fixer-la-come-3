@@ -711,3 +711,10 @@ java.lang.IllegalStateException: Unexpected error: no cauldron at location Block
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23193!/:?]
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23193!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17Jun2025 22:53:53.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
+[17Jun2025 22:53:53.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[17Jun2025 22:54:15.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.106.241.31:59067] logged in with entity id 54023 at (-249.66630353596452, 69.0, 920.6986541024028)
+[17Jun2025 22:54:15.306] [Server thread/INFO] [owo/]: Sending server config values to client
+[17Jun2025 22:54:15.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[17Jun2025 22:54:16.009] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[17Jun2025 22:54:16.072] [Server thread/INFO] [owo/]: Receiving client config
