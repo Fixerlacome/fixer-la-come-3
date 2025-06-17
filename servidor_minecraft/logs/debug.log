@@ -8812,3 +8812,7 @@ java.lang.IllegalStateException: Unexpected error: no cauldron at location Block
 [17Jun2025 06:53:33.807] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@4d3d690=InventoryMapping{i=net.minecraft.world.CompoundContainer@4d3d690, c=net.minecraft.world.inventory.ChestMenu@6cbf6431, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6cbf6431, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6cbf6431, b=54, e=80}}
 [17Jun2025 06:53:33.807] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@4d3d690, c=net.minecraft.world.inventory.ChestMenu@6cbf6431, b=0, e=53}
 [17Jun2025 06:55:04.583] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 07:00:04.581] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 07:05:04.591] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 07:10:04.599] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 07:15:04.589] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
