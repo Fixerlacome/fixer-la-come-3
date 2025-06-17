@@ -8654,3 +8654,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Jun2025 02:16:26.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=59, z=1051} BlockPos{x=136, y=57, z=1051}
 [17Jun2025 02:16:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -246.500000, 75.500000, 933.500000]
 [17Jun2025 02:20:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:25:04.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:30:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
