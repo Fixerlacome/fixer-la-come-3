@@ -7134,5 +7134,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_uranium": "2025-06-17 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_dust": {
+    "criteria": {
+      "has_dust_uranium": "2025-06-17 20:59:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_dust": {
+    "criteria": {
+      "has_dust_lead": "2025-06-17 20:59:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_lead_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_lead": "2025-06-17 20:59:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
