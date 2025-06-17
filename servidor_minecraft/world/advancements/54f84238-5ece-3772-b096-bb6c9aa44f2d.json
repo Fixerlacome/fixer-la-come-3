@@ -6862,6 +6862,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2025-06-17 03:10:13 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
     "criteria": {
       "has_dust_iron": "2025-06-17 02:49:41 +0000"
@@ -6934,6 +6940,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2025-06-17 03:10:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
@@ -6991,6 +7003,12 @@
   "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
     "criteria": {
       "has_dust_iron": "2025-06-17 02:49:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2025-06-17 03:10:13 +0000"
     },
     "done": true
   },
