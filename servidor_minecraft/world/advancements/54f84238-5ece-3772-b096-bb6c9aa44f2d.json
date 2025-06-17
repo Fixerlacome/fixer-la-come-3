@@ -6862,6 +6862,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust_from_blasting": {
+    "criteria": {
+      "has_dust_iron": "2025-06-17 02:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
@@ -6871,6 +6877,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-06-17 02:04:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/electromagnet": {
+    "criteria": {
+      "has_component_electronic": "2025-06-17 02:41:42 +0000"
     },
     "done": true
   },
@@ -6961,6 +6973,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/iron_ingot_from_dust": {
+    "criteria": {
+      "has_dust_iron": "2025-06-17 02:49:41 +0000"
     },
     "done": true
   },
