@@ -8604,3 +8604,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Jun2025 20:25:14.135] [Server thread/DEBUG] [mixin/]: Mixing PortalTagForNetherPortalsMixin from bblcore.mixins.json into net.minecraft.world.level.portal.PortalShape
 [17Jun2025 20:25:14.136] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyFrame$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to md3ac25d$bblcore$lambda$modifyFrame$0$0 in bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore
 [17Jun2025 20:25:14.145] [Server thread/DEBUG] [mixin/]: bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore->@Inject::modifyFrame(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[17Jun2025 20:29:08.520] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 20:34:08.515] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
