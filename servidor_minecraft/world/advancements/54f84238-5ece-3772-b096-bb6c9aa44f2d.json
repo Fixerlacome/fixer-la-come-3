@@ -6892,6 +6892,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_batcher": {
+    "criteria": {
+      "has_item": "2025-06-17 02:59:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-06-17 02:14:56 +0000"
