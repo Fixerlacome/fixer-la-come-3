@@ -6856,6 +6856,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/mb_dieselgen": {
+    "criteria": {
+      "form_multiblock": "2025-06-17 03:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-17 02:08:56 +0000"
