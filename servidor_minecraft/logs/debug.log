@@ -8647,3 +8647,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [17Jun2025 21:24:08.509] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 21:29:08.509] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 21:34:08.503] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 21:39:08.505] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
