@@ -8637,3 +8637,20 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Jun2025 02:00:04.595] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 02:05:04.596] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 02:10:04.588] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:15:04.688] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:15:16.748] [Server thread/DEBUG] [mixin/]: Mixing PortalTagForNetherPortalsMixin from bblcore.mixins.json into net.minecraft.world.level.portal.PortalShape
+[17Jun2025 02:15:16.749] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyFrame$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to mdd2ab70$bblcore$lambda$modifyFrame$0$0 in bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore
+[17Jun2025 02:15:16.751] [Server thread/DEBUG] [mixin/]: bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore->@Inject::modifyFrame(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[17Jun2025 02:15:31.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=61, z=1066} BlockPos{x=107, y=59, z=1067}
+[17Jun2025 02:16:17.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=58, z=1056} BlockPos{x=138, y=57, z=1055}
+[17Jun2025 02:16:17.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=58, z=1056} BlockPos{x=138, y=57, z=1055}
+[17Jun2025 02:16:23.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=58, z=1053} BlockPos{x=136, y=56, z=1053}
+[17Jun2025 02:16:23.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=58, z=1052} BlockPos{x=136, y=56, z=1053}
+[17Jun2025 02:16:23.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=135, y=58, z=1052} BlockPos{x=136, y=56, z=1053}
+[17Jun2025 02:16:25.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=58, z=1052} BlockPos{x=136, y=57, z=1051}
+[17Jun2025 02:16:25.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=58, z=1052} BlockPos{x=136, y=57, z=1051}
+[17Jun2025 02:16:26.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=59, z=1051} BlockPos{x=136, y=57, z=1051}
+[17Jun2025 02:16:26.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=59, z=1051} BlockPos{x=136, y=57, z=1051}
+[17Jun2025 02:16:26.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=136, y=59, z=1051} BlockPos{x=136, y=57, z=1051}
+[17Jun2025 02:16:50.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -246.500000, 75.500000, 933.500000]
+[17Jun2025 02:20:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
