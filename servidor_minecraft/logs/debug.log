@@ -8762,3 +8762,8 @@ java.lang.IllegalStateException: Unexpected error: no cauldron at location Block
 [17Jun2025 04:05:04.627] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 04:10:04.586] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 04:15:04.591] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 04:20:04.569] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 04:22:04.433] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 105
+[17Jun2025 04:22:04.435] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@768fcf31, b=118, e=126}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@768fcf31, b=91, e=117}}
+[17Jun2025 04:22:04.435] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@768fcf31, b=91, e=117}
+[17Jun2025 04:25:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

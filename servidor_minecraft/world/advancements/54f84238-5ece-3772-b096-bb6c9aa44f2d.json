@@ -30,6 +30,7 @@
       "snowy_fir_clearing": "2025-06-12 03:09:20 +0000",
       "tundra": "2025-06-12 03:19:31 +0000",
       "withered_abyss": "2025-06-16 19:07:52 +0000",
+      "glowing_grotto": "2025-06-17 04:15:11 +0000",
       "field": "2025-06-12 02:51:27 +0000",
       "orchard": "2025-06-14 22:15:41 +0000",
       "undergrowth": "2025-06-16 18:42:18 +0000",
@@ -6857,6 +6858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-06-17 04:22:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/mb_dieselgen": {
     "criteria": {
       "form_multiblock": "2025-06-17 03:49:29 +0000"
@@ -7022,6 +7029,12 @@
   "immersiveengineering:recipes/misc/crafting/cloche": {
     "criteria": {
       "has_light_bulb": "2025-06-17 02:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-06-17 04:22:35 +0000"
     },
     "done": true
   },
