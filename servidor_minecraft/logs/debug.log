@@ -8690,3 +8690,5 @@ java.lang.IllegalStateException: Unexpected error: no cauldron at location Block
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [17Jun2025 22:04:08.505] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 22:09:08.505] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:14:08.502] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 22:19:08.503] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
