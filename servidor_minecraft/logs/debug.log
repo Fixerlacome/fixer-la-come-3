@@ -8642,3 +8642,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [17Jun2025 16:24:38.674] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 16:29:38.677] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 16:34:38.674] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 16:39:38.679] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 16:44:38.676] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 16:47:52.610] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 16
+[17Jun2025 16:47:52.610] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@278f79ea, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@278f79ea, b=54, e=80}, net.minecraft.world.CompoundContainer@584a6af6=InventoryMapping{i=net.minecraft.world.CompoundContainer@584a6af6, c=net.minecraft.world.inventory.ChestMenu@278f79ea, b=0, e=53}}
+[17Jun2025 16:47:52.610] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@584a6af6, c=net.minecraft.world.inventory.ChestMenu@278f79ea, b=0, e=53}
+[17Jun2025 16:49:38.675] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
