@@ -8653,3 +8653,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [17Jun2025 16:52:59.626] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3298655f, c=net.minecraft.world.inventory.ChestMenu@4433e73f, b=0, e=53}
 [17Jun2025 16:54:38.676] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 16:59:38.675] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 17:04:38.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 17:09:38.673] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
