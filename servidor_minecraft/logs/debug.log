@@ -8656,3 +8656,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Jun2025 02:20:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 02:25:04.593] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [17Jun2025 02:30:04.590] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:35:04.585] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:40:04.583] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[17Jun2025 02:42:57.658] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 49
+[17Jun2025 02:42:57.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@1c79ac29, b=118, e=126}, []=InventoryMapping{i=[], c=com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu@1c79ac29, b=91, e=117}}
+[17Jun2025 02:42:57.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot null
