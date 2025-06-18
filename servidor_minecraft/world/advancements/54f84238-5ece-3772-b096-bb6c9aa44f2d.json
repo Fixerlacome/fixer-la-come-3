@@ -22,11 +22,13 @@
       "spider_nest": "2025-06-17 04:06:09 +0000",
       "muskeg": "2025-06-12 03:18:47 +0000",
       "woodland": "2025-06-18 03:36:31 +0000",
+      "dryland": "2025-06-18 04:04:47 +0000",
       "cold_desert": "2025-06-12 03:19:38 +0000",
       "lavender_field": "2025-06-14 22:14:03 +0000",
       "snowblossom_grove": "2025-06-12 03:10:49 +0000",
       "old_growth_dead_forest": "2025-06-12 03:10:09 +0000",
       "redwood_forest": "2025-06-14 22:16:51 +0000",
+      "scrubland": "2025-06-18 04:04:03 +0000",
       "snowy_coniferous_forest": "2025-06-12 03:20:32 +0000",
       "snowy_fir_clearing": "2025-06-12 03:09:20 +0000",
       "tundra": "2025-06-12 03:19:31 +0000",
@@ -36,6 +38,7 @@
       "orchard": "2025-06-14 22:15:41 +0000",
       "undergrowth": "2025-06-16 18:42:18 +0000",
       "seasonal_forest": "2025-06-14 22:13:54 +0000",
+      "mediterranean_forest": "2025-06-18 03:52:34 +0000",
       "jacaranda_glade": "2025-06-14 22:15:00 +0000",
       "snowy_maple_woods": "2025-06-12 03:18:39 +0000",
       "coniferous_forest": "2025-06-12 03:26:37 +0000",
@@ -7377,6 +7380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/food/toast_with_chocolate": {
     "criteria": {
       "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
@@ -7392,6 +7401,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-18 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
     },
     "done": true
   },
@@ -7485,9 +7500,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-18 04:04:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-06-18 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
     },
     "done": true
   },
@@ -7524,6 +7551,12 @@
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
     },
     "done": true
   },
@@ -7573,6 +7606,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-06-18 04:06:20 +0000"
     },
     "done": true
   },

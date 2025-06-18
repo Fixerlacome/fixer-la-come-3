@@ -708,3 +708,13 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 03:04:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Respecting the Remnants]
 [18Jun2025 03:23:11.897] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 1912 ms
 [18Jun2025 03:25:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -223.500000, 70.500000, 885.500000]
+[18Jun2025 04:08:23.797] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[18Jun2025 04:08:23.801] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18Jun2025 04:08:23.802] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[18Jun2025 04:08:23.807] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18Jun2025 04:08:23.807] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[18Jun2025 04:08:23.809] [Worker-Main-20/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18Jun2025 04:08:30.436] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[18Jun2025 04:08:30.436] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[18Jun2025 04:08:30.437] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[18Jun2025 04:08:30.437] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
