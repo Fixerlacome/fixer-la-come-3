@@ -9067,3 +9067,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 05:30:21.314] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 23
 [18Jun2025 05:30:21.315] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@31b57a50, b=81, e=89}, net.minecraft.world.CompoundContainer@7e14fa0f=InventoryMapping{i=net.minecraft.world.CompoundContainer@7e14fa0f, c=net.minecraft.world.inventory.ChestMenu@31b57a50, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@31b57a50, b=54, e=80}}
 [18Jun2025 05:30:21.315] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7e14fa0f, c=net.minecraft.world.inventory.ChestMenu@31b57a50, b=0, e=53}
+[18Jun2025 05:33:56.384] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 05:38:56.385] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 05:43:56.393] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 05:48:56.389] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
