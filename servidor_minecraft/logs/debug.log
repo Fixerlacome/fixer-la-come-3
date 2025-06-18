@@ -8835,3 +8835,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 03:03:56.376] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 03:04:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Respecting the Remnants]
 [18Jun2025 03:08:56.385] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 03:13:56.389] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 03:18:56.375] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
