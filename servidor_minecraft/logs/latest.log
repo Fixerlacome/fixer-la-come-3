@@ -684,3 +684,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [18Jun2025 02:11:10.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has completed the challenge [Big Daddy]
 [18Jun2025 02:14:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -223.500000, 70.500000, 885.500000]
+[18Jun2025 02:25:33.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -5.561469118582352,-3.024424088213692,8.61040813605132
+[18Jun2025 02:25:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Smashing Success]
+[18Jun2025 02:26:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Ancient Treasure]
