@@ -7164,5 +7164,59 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/nugget_electrum_to_ingot_electrum": {
+    "criteria": {
+      "has_nugget_electrum": "2025-06-17 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_electrum_to_nugget_electrum": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_redstone": {
+    "criteria": {
+      "has_electrum_nugget": "2025-06-17 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_state_cell": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_switchboard": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/siren": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_probe": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_timer": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_bundled": {
+    "criteria": {
+      "has_connector": "2025-06-17 23:29:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
