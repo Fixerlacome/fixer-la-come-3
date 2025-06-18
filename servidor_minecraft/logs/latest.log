@@ -706,3 +706,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 02:54:16.379] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [18Jun2025 02:54:16.380] [Server thread/INFO] [owo/]: Receiving client config
 [18Jun2025 03:04:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Respecting the Remnants]
+[18Jun2025 03:23:11.897] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 1912 ms
+[18Jun2025 03:25:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -223.500000, 70.500000, 885.500000]

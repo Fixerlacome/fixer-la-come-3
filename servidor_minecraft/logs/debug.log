@@ -8837,3 +8837,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 03:08:56.385] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 03:13:56.389] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 03:18:56.375] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 03:23:11.897] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 1912 ms
+[18Jun2025 03:23:56.378] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 03:25:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -223.500000, 70.500000, 885.500000]
+[18Jun2025 03:28:56.380] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
