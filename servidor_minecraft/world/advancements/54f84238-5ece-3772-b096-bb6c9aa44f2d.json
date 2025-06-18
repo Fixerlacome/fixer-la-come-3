@@ -7608,6 +7608,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/fluorescent_tube": {
+    "criteria": {
+      "has_electrode": "2025-06-18 05:07:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "fish_stew": "2025-06-18 03:19:26 +0000"
