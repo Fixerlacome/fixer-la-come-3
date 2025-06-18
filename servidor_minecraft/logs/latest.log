@@ -764,3 +764,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 05:16:18.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Byakko4146: Location (-230.77931137382984, 70.73035532236099, 941.125) too far away from hit block BlockPos{x=-231, y=70, z=942}.
 [18Jun2025 05:26:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Postmortal]
 [18Jun2025 06:37:41.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Byakko4146: Location (-231.81338565051556, 70.86488819122314, 941.25) too far away from hit block BlockPos{x=-232, y=70, z=942}.
+[18Jun2025 06:53:53.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
+[18Jun2025 06:53:53.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[18Jun2025 06:54:10.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.106.241.31:63054] logged in with entity id 97682 at (-238.1241116728345, 69.0, 936.0950712916244)
+[18Jun2025 06:54:10.616] [Server thread/INFO] [owo/]: Sending server config values to client
+[18Jun2025 06:54:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[18Jun2025 06:54:11.477] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[18Jun2025 06:54:11.530] [Server thread/INFO] [owo/]: Receiving client config

@@ -7380,27 +7380,100 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_juice": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_melon_slice": "2025-06-18 03:32:36 +0000"
+      "has_sherd": "2025-06-18 03:04:57 +0000",
+      "ocean_ruin_cold": "2025-06-18 03:04:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
+  "farmersdelight:main/master_chef": {
     "criteria": {
-      "has_orange_wool": "2025-06-18 03:51:00 +0000"
+      "fish_stew": "2025-06-18 03:19:26 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-06-18 03:26:51 +0000"
     },
     "done": true
   },
-  "moredelight:recipes/food/toast_with_chocolate": {
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
-      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
+      "has_any_ingredient": "2025-06-18 03:26:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_planks": "2025-06-18 03:39:57 +0000"
+      "has_cabbage": "2025-06-18 03:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-06-18 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-18 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-06-18 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-18 03:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-18 03:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-18 03:27:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-06-18 03:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-06-18 03:29:00 +0000"
     },
     "done": true
   },
@@ -7410,9 +7483,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_orange_wool": "2025-06-18 03:51:00 +0000"
+      "has_logs": "2025-06-18 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
     },
     "done": true
   },
@@ -7422,9 +7537,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_popsicle": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_melon": "2025-06-18 03:32:36 +0000"
+      "has_cocoa": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chocolate_popsicle": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-18 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-06-18 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
     },
     "done": true
   },
@@ -7440,18 +7585,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-06-18 04:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-06-18 03:27:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-18 03:39:57 +0000"
@@ -7461,12 +7594,6 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-18 03:39:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-06-18 03:33:54 +0000"
     },
     "done": true
   },
@@ -7482,178 +7609,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-18 03:33:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-06-18 03:32:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beetroot_from_crate": {
-    "criteria": {
-      "has_beetroot_crate": "2025-06-18 03:29:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-18 03:27:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-06-18 04:04:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-06-18 03:28:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2025-06-18 03:51:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-06-18 03:32:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-18 03:38:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-18 03:26:59 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/chocolate_popsicle": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-06-18 05:26:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-06-18 04:11:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
-    "criteria": {
-      "has_orange_wool": "2025-06-18 03:51:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-06-18 03:38:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-06-18 03:32:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-06-18 03:32:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cabbage": {
-    "criteria": {
-      "has_cabbage_crate": "2025-06-18 03:26:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/straw": {
-    "criteria": {
-      "has_straw_bale": "2025-06-18 03:27:22 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluorescent_tube": {
-    "criteria": {
-      "has_electrode": "2025-06-18 05:07:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "fish_stew": "2025-06-18 03:19:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-06-18 03:04:57 +0000",
-      "ocean_ruin_cold": "2025-06-18 03:04:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-06-18 03:32:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
-    "criteria": {
-      "has_tiny_cactus": "2025-06-18 04:06:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-18 03:39:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-06-18 03:27:32 +0000"
     },
     "done": true
   },
@@ -7663,21 +7621,63 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+  "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
-      "has_cabbage": "2025-06-18 03:26:59 +0000"
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
-      "has_bamboo": "2025-06-18 03:27:32 +0000"
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_bamboo": "2025-06-18 03:27:32 +0000"
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-06-18 03:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-18 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-06-18 04:06:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-06-18 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-18 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluorescent_tube": {
+    "criteria": {
+      "has_electrode": "2025-06-18 05:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-18 05:26:02 +0000"
     },
     "done": true
   },
