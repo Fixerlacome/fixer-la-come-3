@@ -697,3 +697,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 02:46:02.783] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
 [18Jun2025 02:46:02.788] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
 [18Jun2025 02:46:02.789] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18Jun2025 02:53:56.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Timed out
+[18Jun2025 02:53:56.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[18Jun2025 02:53:56.549] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jun2025 02:54:15.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.106.241.31:61122] logged in with entity id 29616 at (-64.55168657255672, 66.0, 1934.699999988079)
+[18Jun2025 02:54:15.796] [Server thread/INFO] [owo/]: Sending server config values to client
+[18Jun2025 02:54:15.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[18Jun2025 02:54:16.379] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[18Jun2025 02:54:16.380] [Server thread/INFO] [owo/]: Receiving client config
