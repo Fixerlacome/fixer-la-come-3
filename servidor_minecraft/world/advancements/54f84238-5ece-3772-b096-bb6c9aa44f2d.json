@@ -21,6 +21,7 @@
     "criteria": {
       "spider_nest": "2025-06-17 04:06:09 +0000",
       "muskeg": "2025-06-12 03:18:47 +0000",
+      "woodland": "2025-06-18 03:36:31 +0000",
       "cold_desert": "2025-06-12 03:19:38 +0000",
       "lavender_field": "2025-06-14 22:14:03 +0000",
       "snowblossom_grove": "2025-06-12 03:10:49 +0000",
@@ -57,6 +58,7 @@
       "minecraft:frozen_river": "2025-06-12 02:53:01 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-12 03:07:24 +0000",
       "minecraft:ocean": "2025-06-18 02:27:19 +0000",
+      "minecraft:jungle": "2025-06-18 03:32:07 +0000",
       "minecraft:snowy_beach": "2025-06-12 03:02:15 +0000",
       "minecraft:plains": "2025-06-12 03:25:17 +0000"
     },
@@ -1278,14 +1280,17 @@
       "minecraft:ghast": "2025-06-16 20:01:55 +0000",
       "minecraft:hoglin": "2025-06-16 18:41:17 +0000",
       "minecraft:piglin": "2025-06-16 18:40:45 +0000",
+      "minecraft:vindicator": "2025-06-18 03:37:30 +0000",
       "minecraft:enderman": "2025-06-15 22:10:59 +0000",
       "minecraft:magma_cube": "2025-06-16 20:03:25 +0000",
       "minecraft:spider": "2025-06-12 04:24:29 +0000",
       "minecraft:piglin_brute": "2025-06-16 19:39:57 +0000",
+      "minecraft:vex": "2025-06-18 03:45:08 +0000",
       "minecraft:zombie": "2025-06-12 03:03:20 +0000",
       "minecraft:creeper": "2025-06-12 03:55:57 +0000",
       "minecraft:drowned": "2025-06-18 03:04:39 +0000",
-      "minecraft:zombie_villager": "2025-06-15 06:47:04 +0000"
+      "minecraft:zombie_villager": "2025-06-15 06:47:04 +0000",
+      "minecraft:evoker": "2025-06-18 03:45:00 +0000"
     },
     "done": false
   },
@@ -7366,15 +7371,111 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
       "has_logs": "2025-06-18 03:27:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-06-18 03:29:00 +0000"
     },
     "done": true
   },
@@ -7390,9 +7491,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-18 03:38:52 +0000"
     },
     "done": true
   },
@@ -7402,9 +7515,33 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/chocolate_popsicle": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-18 03:33:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-06-18 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-06-18 03:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-18 03:32:05 +0000"
     },
     "done": true
   },
@@ -7433,9 +7570,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-06-18 03:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-06-18 03:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-18 03:39:57 +0000"
     },
     "done": true
   },
