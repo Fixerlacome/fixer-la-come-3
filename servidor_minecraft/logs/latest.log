@@ -705,3 +705,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 02:54:15.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
 [18Jun2025 02:54:16.379] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [18Jun2025 02:54:16.380] [Server thread/INFO] [owo/]: Receiving client config
+[18Jun2025 03:04:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Respecting the Remnants]

@@ -1284,6 +1284,7 @@
       "minecraft:piglin_brute": "2025-06-16 19:39:57 +0000",
       "minecraft:zombie": "2025-06-12 03:03:20 +0000",
       "minecraft:creeper": "2025-06-12 03:55:57 +0000",
+      "minecraft:drowned": "2025-06-18 03:04:39 +0000",
       "minecraft:zombie_villager": "2025-06-15 06:47:04 +0000"
     },
     "done": false
@@ -7362,6 +7363,13 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-06-18 02:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-18 03:04:57 +0000",
+      "ocean_ruin_cold": "2025-06-18 03:04:24 +0000"
     },
     "done": true
   },
