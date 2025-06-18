@@ -8979,3 +8979,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 04:36:36.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=866, y=106, z=960} BlockPos{x=865, y=105, z=960}
 [18Jun2025 04:38:56.413] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 04:40:01.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -9.462103182111946,-1.044812420399012,-3.3300444324563614
+[18Jun2025 04:43:56.394] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 04:47:50.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 49
+[18Jun2025 04:47:50.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@7f8a43b=InventoryMapping{i=net.minecraft.world.CompoundContainer@7f8a43b, c=net.minecraft.world.inventory.ChestMenu@686daa05, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@686daa05, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@686daa05, b=54, e=80}}
+[18Jun2025 04:47:50.711] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7f8a43b, c=net.minecraft.world.inventory.ChestMenu@686daa05, b=0, e=53}
+[18Jun2025 04:48:56.388] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
