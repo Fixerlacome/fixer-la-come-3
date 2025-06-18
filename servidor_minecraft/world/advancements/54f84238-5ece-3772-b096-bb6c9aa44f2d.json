@@ -44,16 +44,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-06-12 03:07:34 +0000",
+      "minecraft:cold_ocean": "2025-06-18 02:27:14 +0000",
       "minecraft:flower_forest": "2025-06-14 22:24:19 +0000",
-      "minecraft:frozen_ocean": "2025-06-12 03:00:09 +0000",
-      "minecraft:frozen_river": "2025-06-12 02:53:01 +0000",
       "minecraft:forest": "2025-06-14 22:21:26 +0000",
       "minecraft:taiga": "2025-06-12 03:09:22 +0000",
-      "minecraft:deep_frozen_ocean": "2025-06-12 03:07:24 +0000",
       "minecraft:river": "2025-06-14 22:14:51 +0000",
       "minecraft:snowy_plains": "2025-06-12 02:51:41 +0000",
       "minecraft:snowy_taiga": "2025-06-12 02:53:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-12 03:07:34 +0000",
+      "minecraft:frozen_ocean": "2025-06-12 03:00:09 +0000",
+      "minecraft:frozen_river": "2025-06-12 02:53:01 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-12 03:07:24 +0000",
+      "minecraft:ocean": "2025-06-18 02:27:19 +0000",
       "minecraft:snowy_beach": "2025-06-12 03:02:15 +0000",
       "minecraft:plains": "2025-06-12 03:25:17 +0000"
     },
@@ -7224,6 +7226,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-18 02:26:25 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-06-18 02:26:51 +0000"
+    },
+    "done": false
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-06-18 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:villager_fossil_head": "2025-06-18 02:26:18 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-06-18 02:17:25 +0000"
@@ -7269,6 +7295,24 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-06-18 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-18 02:26:25 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2025-06-18 02:26:18 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/decorations/villager_fossil": {
+    "criteria": {
+      "has_villager_fossil_head": "2025-06-18 02:26:18 +0000"
     },
     "done": true
   },

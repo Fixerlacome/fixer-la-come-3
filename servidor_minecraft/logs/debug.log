@@ -8797,3 +8797,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [18Jun2025 02:25:33.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -5.561469118582352,-3.024424088213692,8.61040813605132
 [18Jun2025 02:25:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Smashing Success]
 [18Jun2025 02:26:18.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Ancient Treasure]
+[18Jun2025 02:28:54.420] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 02:33:54.422] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 02:38:54.392] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 02:43:54.384] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 02:45:45.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 9.241427741727193,0.7539862017387549,4.44878337486989
+[18Jun2025 02:45:45.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[18Jun2025 02:46:02.778] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[18Jun2025 02:46:02.779] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[18Jun2025 02:46:02.779] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18Jun2025 02:46:02.781] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[18Jun2025 02:46:02.781] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18Jun2025 02:46:02.783] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[18Jun2025 02:46:02.788] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[18Jun2025 02:46:02.789] [Worker-Main-19/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
